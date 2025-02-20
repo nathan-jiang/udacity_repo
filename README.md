@@ -14,3 +14,4 @@
 - git rebase <branch>: Reapply commits on top of another base branch. 
 - git log: Show commit history. 
 - git reset --hard HEAD~1: Reset to the previous commit. 
+- git branch -d <branch>: delete local branch
